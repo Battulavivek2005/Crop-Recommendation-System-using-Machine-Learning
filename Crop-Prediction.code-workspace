@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../sos_project"
+		},
+		{
+			"path": "../sos_project/functions"
+		},
+		{
+			"path": "../sos_project/police_dashboard"
+		},
+		{
+			"path": "../sos_project/sos_app"
+		}
+	],
+	"settings": {}
+}
